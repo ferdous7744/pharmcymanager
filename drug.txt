@@ -1,0 +1,79 @@
+6,VitC,60.0,Supplement,Vc:1000
+3,Aspirin,45.0,Painkiller,Aspi:300
+9,ColdStop,110.0,Cold,Para:500|Vc:200
+2,Panadol,98.5,Painkiller,Para:500
+5,Nurofen,75.0,Painkiller,Ibu:400|Caf:50
+8,MultiVit,200.0,Supplement,Vc:500|Zn:15|Fe:18
+1,Dolo,123.4,Painkiller,Para:500|Caf:65
+4,Brufen,70.0,Painkiller,Ibu:400
+7,CalD3,120.0,Supplement,Cal:500|D3:400
+10,FluRelief,130.0,Cold,Para:500|Caf:65|Vc:200
+1,Dolo, 123.4 ,Painkiller, Para:500|Caf:65
+2,Panadol, 98.5 ,Painkiller, Para:500
+4,Brufen, 70.0 ,Painkiller, Ibu:400
+5,Nurofen, 75.0 ,Painkiller, Ibu:400|Caf:50
+3,Aspirin, 45.0 ,Painkiller, Aspi:300
+7,CalD3, 120.0 ,Supplement, Cal:500|D3:400
+8,try, 200.0 ,Supplement, Vc:500|Zn:15|Fe:18
+10,FluRelief, 130.0 ,Cold, Para:500|Caf:65|Vc:200
+9,ColdStop, 110.0 ,Cold, Para:500|Vc:200
+6,VitC, 60.0 ,Supplement, Vc:1000
+1,Dolo, 123.4 ,Painkiller,  Para:500|Caf:65
+1,Dolo, 123.4 ,Painkiller, Para:500|Caf:65
+2,Panadol, 98.5 ,Painkiller,  Para:500
+2,Panadol, 98.5 ,Painkiller, Para:500
+3,Aspirin, 45.0 ,Painkiller,  Aspi:300
+4,Brufen, 70.0 ,Painkiller,  Ibu:400
+4,Brufen, 70.0 ,Painkiller, Ibu:400
+5,Nurofen, 75.0 ,Painkiller,  Ibu:400|Caf:50
+5,Nurofen, 75.0 ,Painkiller, Ibu:400|Caf:50
+3,Aspirin, 45.0 ,Painkiller, Aspi:300
+6,VitC, 60.0 ,Supplement,  Vc:1000
+7,CalD3, 120.0 ,Supplement,  Cal:500|D3:400
+7,CalD3, 120.0 ,Supplement, Cal:500|D3:400
+8,try, 200.0 ,Supplement,  Vc:500|Zn:15|Fe:18
+8,MultiVit, 200.0 ,Supplement, Vc:500|Zn:15|Fe:18
+9,ColdStop, 110.0 ,Cold,  Para:500|Vc:200
+10,FluRelief, 130.0 ,Cold,  Para:500|Caf:65|Vc:200
+10,FluRelief, 130.0 ,Cold, Para:500|Caf:65|Vc:200
+9,ColdStop, 110.0 ,Cold, Para:500|Vc:200
+6,VitC, 60.0 ,Supplement, Vc:1000
+1,Dolo, 123.4 ,Painkiller,  Para:500|Caf:65
+1,Dolo, 123.4 ,Painkiller,   Para:500|Caf:65
+1,Dolo, 123.4 ,Painkiller,  Para:500|Caf:65
+2,Panadol, 98.5 ,Painkiller,  Para:500
+2,Panadol, 98.5 ,Painkiller,   Para:500
+2,Panadol, 98.5 ,Painkiller,  Para:500
+2,Panadol, 98.5 ,Painkiller, Para:500
+3,Aspirin, 45.0 ,Painkiller,  Aspi:300
+3,Aspirin, 45.0 ,Painkiller,   Aspi:300
+4,Brufen, 70.0 ,Painkiller,  Ibu:400
+4,Brufen, 70.0 ,Painkiller,   Ibu:400
+4,Brufen, 70.0 ,Painkiller,  Ibu:400
+4,Brufen, 70.0 ,Painkiller, Ibu:400
+5,Nurofen, 75.0 ,Painkiller,  Ibu:400|Caf:50
+5,Nurofen, 75.0 ,Painkiller,   Ibu:400|Caf:50
+5,Nurofen, 75.0 ,Painkiller,  Ibu:400|Caf:50
+5,Nurofen, 75.0 ,Painkiller, Ibu:400|Caf:50
+3,Aspirin, 45.0 ,Painkiller,  Aspi:300
+6,VitC, 60.0 ,Supplement,  Vc:1000
+6,VitC, 60.0 ,Supplement,   Vc:1000
+6,VitC, 60.0 ,Supplement,  Vc:1000
+7,CalD3, 120.0 ,Supplement,  Cal:500|D3:400
+7,CalD3, 120.0 ,Supplement,   Cal:500|D3:400
+7,CalD3, 120.0 ,Supplement,  Cal:500|D3:400
+7,CalD3, 120.0 ,Supplement, Cal:500|D3:400
+8,MultiVit, 200.0 ,Supplement,  Vc:500|Zn:15|Fe:18
+8,try, 200.0 ,Supplement,   Vc:500|Zn:15|Fe:18
+8,try, 200.0 ,Supplement,  Vc:500|Zn:15|Fe:18
+8,MultiVit, 200.0 ,Supplement, Vc:500|Zn:15|Fe:18
+9,ColdStop, 110.0 ,Cold,  Para:500|Vc:200
+9,ColdStop, 110.0 ,Cold,   Para:500|Vc:200
+9,ColdStop, 110.0 ,Cold,  Para:500|Vc:200
+11,solo, 3456.0 ,Supplement, para:500
+10,FluRelief, 130.0 ,Cold,  Para:500|Caf:65|Vc:200
+10,FluRelief, 130.0 ,Cold,   Para:500|Caf:65|Vc:200
+10,FluRelief, 130.0 ,Cold,  Para:500|Caf:65|Vc:200
+10,FluRelief, 130.0 ,Cold, Para:500|Caf:65|Vc:200
+9,ColdStop, 110.0 ,Cold, Para:500|Vc:200
+6,VitC, 60.0 ,Supplement, Vc:1000
